@@ -9,9 +9,6 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
-# Role/position
-role: Senior Student at the Department of Tsinghua University
-
 # Organizations/Affiliations
 organizations:
 - name: Tsinghua Natural Language Processing and Computational Social Science Lab (THUNLP)
@@ -38,7 +35,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'hujy369@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/jinyihu2
