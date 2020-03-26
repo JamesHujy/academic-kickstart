@@ -5,12 +5,12 @@ name = "Dark"
 light = false
 
 # Primary
-primary = "hsl(339, 90%, 68%)"
+primary = "#2962ff"
 
 # Menu
 menu_primary = "rgb(20, 22, 34)"
-menu_text = "#34495e"
-menu_text_active = "#2962FF"
+menu_text = "rgba(255,255,255,0.6)"
+menu_text_active = "rgba(255,255,255,1)"
 menu_title = "#fff"
 
 # Home sections
