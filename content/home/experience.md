@@ -17,21 +17,20 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
     title = "Research Intern"
     company = "Mila Quebec"
     company_url = "https://mila.quebec/"
-    mentor = "Jian Tang"
-    mentor_url = "https://jian-tang.com/"
-    data_start = "2020.02"
-    data_end = "2020.09"
+    data_start = "2020-02"
+    data_end = "2020-09"
     descriptions = """Working on reasoning in NLP"""
 [[experience]]
     title = "Research Intern"
     company = "Language Technology Lab, Alibaba DAMO Academy"
     company_url = "https://damo.alibaba.com/labs/language-technology"
-    data_start = "2020.07"
-    data_end = "2020.10"
+    data_start = "2020-07"
+    data_end = "2020-10"
     descriptions = """Working on End-to-end speech translation"""
 
 +++
