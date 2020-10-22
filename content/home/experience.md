@@ -25,15 +25,19 @@ date_format = "Jan 2006"
   location = "Montreal, Canada"
   date_start = "2020-02-14"
   date_end = "2020-09-27"
-  description = """Research about reasoning in NLP"""
+  description = """
+  Advisor: [Jian Tang](https://jian-tang.com/)
+  """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Intern"
+  company = "Language Technology Lab, Alibaba DAMO Academy"
+  company_url = "https://damo.alibaba.com/labs/language-technology"
+  location = "Hangzhou, China"
+  date_start = "2020-07-13"
+  date_end = "2020-10-18"
+  description = """
+  Mentor: [Zhirui Zhang](https://zrustc.github.io/) and [Boxing Chen](https://sites.google.com/site/chenboxing/)
+  """
 
 +++
