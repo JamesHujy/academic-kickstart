@@ -29,5 +29,6 @@ date_format = "Jan 2006"
 [[experience]]
     title = "Research Intern"
     company = "Language Technology Lab, Alibaba DAMO Academy"
+    company_url = "https://damo.alibaba.com/labs/language-technology"
   """
 +++
