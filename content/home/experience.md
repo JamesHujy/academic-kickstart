@@ -25,6 +25,7 @@ date_format = "Jan 2006"
     date_start = "2020-02"
     date_end = "2020-09"
     descriptions = """Working on reasoning in NLP"""
+
 [[experience]]
     title = "Research Intern"
     company = "Language Technology Lab, Alibaba DAMO Academy"
