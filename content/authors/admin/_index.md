@@ -12,7 +12,7 @@ superuser: true
 # Organizations/Affiliations
 organizations:
 - name: Tsinghua Natural Language Processing and Computational Social Science Lab (THUNLP)
-  url: "http://nlp.csai.tsinghua.edu.cn/site2/index.php/en"
+  url: "http://nlp.csai.tsinghua.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include natural language processing, machine learning and interpretable AI.
@@ -41,7 +41,7 @@ social:
   link: https://twitter.com/jinyihu2
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=Cz70Xr8AAAAJ&hl
 - icon: github
   icon_pack: fab
   link: https://github.com/jameshujy
