@@ -25,10 +25,9 @@ date_format = "Jan 2006"
     mentor_url = "https://jian-tang.com/"
     data_start = "2020.02-2020.09"
     descrition = "Working on reasoning in NLP"
-  """
 [[experience]]
     title = "Research Intern"
     company = "Language Technology Lab, Alibaba DAMO Academy"
     company_url = "https://damo.alibaba.com/labs/language-technology"
-  """
+
 +++
