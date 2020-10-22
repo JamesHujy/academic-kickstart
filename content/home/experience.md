@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 [[experience]]
     title = "Research Intern"
     company = "Mila Quebec"
-    company = "https://mila.quebec/"
+    company_url = "https://mila.quebec/"
     mentor = "Jian Tang"
     mentor_url = "https://jian-tang.com/"
     data_start = "2020.02-2020.09"
