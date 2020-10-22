@@ -61,4 +61,6 @@ user_groups:
 - Visitors
 ---
 
-I am a senior student at the Department of Computer Science, Tsinghua University, China. Currently, I’m a member of [THUNLP](http://nlp.csai.tsinghua.edu.cn/site2/index.php/en), advised by [Maosong Sun](http://www.cs.tsinghua.edu.cn/publish/cs/4616/2013/20130424103737386785027/20130424103737386785027_.html). My research interests include natural language processing, machine learning and interpretable AI.
+I am a senior student at the Department of Computer Science, Tsinghua University, China. Currently, I’m a member of [THUNLP](http://nlp.csai.tsinghua.edu.cn/), advised by [Maosong Sun](http://www.cs.tsinghua.edu.cn/publish/cs/4616/2013/20130424103737386785027/20130424103737386785027_.html). My research interests include natural language processing, machine learning and interpretable AI. 
+
+I am one of developers of [Jiuge System](http://jiuge.thunlp.org/), a automatic Classical Chinese Poem Generation System. Welcome to use it!
